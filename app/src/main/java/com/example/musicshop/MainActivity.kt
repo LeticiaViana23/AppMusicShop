@@ -63,7 +63,6 @@ class MainActivity : AppCompatActivity() {
             }
         })
 
-
         binding.btAll.setOnClickListener {
             clicked = true
             if (clicked){
